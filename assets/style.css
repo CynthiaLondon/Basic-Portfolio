@@ -19,6 +19,16 @@ header {
 	margin-top: -15px;
 	margin-bottom: -5px;
 	border-bottom: 3px solid #eee;
-		
-
 }
+
+.name {
+	float: left;
+	color: white;
+	background-color: #4aaaa5;
+	overflow: hidden;
+	margin-left: 45px;
+	margin-top: -5px;
+	margin-bottom: -4px;
+	padding: 15px 8 px 15px 8px;
+
+}	
