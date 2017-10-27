@@ -41,8 +41,15 @@ header {
 nav {
 	float: right;
 	color: grey;
-	background color: #fff;
+	background-color: #fff;
 	text-decoration: none;
-	margin 5px;
-	overflow:hidden;
+	margin-right: 5px;
+	overflow: hidden;
+}
+
+.links li {
+	float: right;
+	display: inline;
+	color: gray;
+	background-color: white;
 }
