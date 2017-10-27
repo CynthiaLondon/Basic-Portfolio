@@ -52,4 +52,20 @@ nav {
 	display: inline;
 	color: gray;
 	background-color: white;
+	overflow: hidden;
+}
+
+.links li {
+	float: right;
+	display: inline;
+	color: grey;
+	background-colr:white;
+	font-size:14px;
+	text-decoration:none;
+	padding: 20px;
+}
+
+.links a{
+	color:gray;
+	text-description: none;
 }
