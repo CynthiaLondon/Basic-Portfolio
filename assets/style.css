@@ -50,22 +50,26 @@ nav {
 .links li {
 	float: right;
 	display: inline;
-	color: gray;
-	background-color: white;
-	overflow: hidden;
-}
-
-.links li {
-	float: right;
-	display: inline;
 	color: grey;
-	background-colr:white;
+	background-color: white;
 	font-size:14px;
-	text-decoration:none;
-	padding: 20px;
+	text-decoration: none;
+	padding:20px;
 }
 
-.links a{
-	color:gray;
-	text-description: none;
+
+.main {
+	 background-color: white;
+	 color: grey;
+	 width: 650px;
+	 max-width: 66%;
+	 overflow: hidden;
+	 float: left;
+	 margin: 32px;
+	 font-family: 'Arial', 'Helvetica-Neue', sans-serif;
+}
+
+.contact {
+	margin: 10px;
+	padding: 20px;
 }
