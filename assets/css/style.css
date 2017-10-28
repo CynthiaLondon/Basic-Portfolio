@@ -12,6 +12,10 @@ h1, h3 {
 	color: #4aaaa5;
 }
 
+h1 {
+	font-style:bold;
+}
+
 header {
 	background-color: white;
 	overflow: hidden;
@@ -29,7 +33,9 @@ header {
 	margin-left: 45px;
 	margin-top: 50px;
 	margin-bottom: -4px;
-	padding: 15px 8px 15px 8px;
+	padding: 25px 10px 25px 10px;
+	font-style: oblique;
+	font-size: 155%;
 }
 
 #line {
@@ -55,6 +61,7 @@ nav {
 	font-size:14px;
 	text-decoration: none;
 	padding:20px;
+	font-size:105%;
 }
 
 
@@ -72,6 +79,7 @@ nav {
 .contact {
 	margin: 10px;
 	padding: 20px;
+	vertical-align:top;
 }
 
 .sidebox {
@@ -150,6 +158,7 @@ nav {
 	margin:10px
 	padding:20px;
 	float-right;
+	vertical-align:top;
 }
 
 
@@ -183,4 +192,9 @@ nav {
 	margin:0;
 	padding:0;
 	background-color:#4aaaa5;
+}
+
+#break {
+	display:inline-flex;
+	margin-top:100px;
 }
