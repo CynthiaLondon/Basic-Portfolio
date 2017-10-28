@@ -27,7 +27,7 @@ header {
 	background-color: #4aaaa5;
 	overflow: hidden;
 	margin-left: 45px;
-	margin-top: -5px;
+	margin-top: 50px;
 	margin-bottom: -4px;
 	padding: 15px 8px 15px 8px;
 }
@@ -75,18 +75,15 @@ nav {
 }
 
 .sidebox {
-	display: inline;
-	float: right;
+	display: inline-block;
 	width: 250px;
 	height: 150px;
-	padding: 10px;
+	padding: 20px;
 	background-color: white;
 	color: #4aaaa5;
 	text-align: center;
-	overflow: hidden;
-	margin-left: auto;
-	margin-right: auto:
 	margin-top: 40px;
+	vertical-align: top;
 }
 
 .footer {
@@ -152,11 +149,9 @@ nav {
 .contact {
 	margin:10px
 	padding:20px;
+	float-right;
 }
 
-.contact input {
-	width:80%;
-}
 
 .aboutme {
 	background-color:white;
