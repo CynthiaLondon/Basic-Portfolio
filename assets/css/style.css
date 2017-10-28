@@ -102,10 +102,48 @@ nav {
 	bottom: 0;
 }
 
-.image {
-    float: left;
-    width: -50px;
-    height:-50px;
+
+.image1 {
+    float:left;
     margin: 10px;
-	
+    padding: 10px;
+    border: 4px solid #4aaaa5;
+    vertical-align:top;
+
+
+}
+
+.image2 {
+    float:left;
+	clear:both;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid #4aaaa5;
+    vertical-align:top;
+}
+.image3 {
+    float:left;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid #4aaaa5;
+    vertical-align:top;
+}
+.image4 {
+    float:left;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid #4aaaa5;
+    vertical-align:top;
+    margin-bottom: 20px;
+
+}
+.image5 {
+    float:left;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid #4aaaa5;
+    vertical-align:top;
+    margin-bottom: 20px;
+}
+
 
