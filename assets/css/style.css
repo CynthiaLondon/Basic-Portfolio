@@ -12,9 +12,7 @@ h1, h3 {
 	color: #4aaaa5;
 }
 
-h1 {
-	font-style:bold;
-}
+
 
 header {
 	background-color: white;
@@ -25,6 +23,19 @@ header {
 	border-bottom: 3px solid #eee;
 }
 
+h1 {
+	font-size:145%;
+	font-weight:900;
+	padding-bottom:25px;
+
+}
+
+h3 {
+	font-weight:bold;
+}
+
+
+
 .name {
 	float: left;
 	color: white;
@@ -33,9 +44,9 @@ header {
 	margin-left: 45px;
 	margin-top: 50px;
 	margin-bottom: -4px;
-	padding: 25px 10px 25px 10px;
-	font-style: oblique;
-	font-size: 155%;
+	padding: 10px 8px 10px 10px;
+	font-style: normal;
+	font-size: 150%;
 }
 
 #line {
