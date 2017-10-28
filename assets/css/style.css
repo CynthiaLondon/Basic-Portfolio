@@ -178,3 +178,14 @@ nav {
 	text-decoration:none;
 	padding:20px;
 }
+
+#submit {
+	color: #fff;
+	font-size:12;
+	width:125px;
+	height:30px;
+	border:none;
+	margin:0;
+	padding:0;
+	background-color:#4aaaa5;
+}
